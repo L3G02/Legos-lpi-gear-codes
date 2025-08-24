@@ -396,8 +396,6 @@ For Building (and also some random blocks):
 
 1554780073 Teleporters, already on LPI Wrench
 
-IDs of scripts and some fun stuff:
-
 1367834043   Adds a fancy black text on top of your screen, serves zero purpose (low tier ID)
 
 560419694    Sprint Script, possibly broken
@@ -428,7 +426,7 @@ IDs of scripts and some fun stuff:
 
 923651590    Might give shiftlock to players, needs more testing.
 
-IDs of NPCs/Fighter Bots and such:
+ids for npcs
 
 187790284  Soldier NPC
 
@@ -582,13 +580,11 @@ Cars and Automobiles:
 
 6418239833 Sedans
 
-Miscelaneous IDs (basically IDs that didn't fit in any of the other sections)
-
 903317454  Possibly nothing, but needs more testing
 
-404489748  Server Destroyer (at least that's what FoxBin said) and it's blacklisted
+404489748  Server Destroyer (BLACKLISTED)
 
-2785569537 This gear is so ridiculously boring I didn't even put it in gears section because its bad, bad, stinky, ugly and melonheaded.
+2785569537 This gear is so ridiculously boring
 
 850587374  Might need more testing
 
@@ -602,9 +598,9 @@ Miscelaneous IDs (basically IDs that didn't fit in any of the other sections)
 
 1302058676 An old and rusty chair, already on gearwall
 
-2740676571 Also forgor to note down what happens...
+2740676571 Also forgot to note down what happens...
 
-573203659  The gear doesn't work, and it leaves behind a GUI
+573203659  this gear doesnt even work and it leaves behind some kind of GUI
 
 160000787  Spawns something that despawns after seconds
 
