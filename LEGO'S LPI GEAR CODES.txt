@@ -1,0 +1,629 @@
+962575893  Foxbin's Endless Ice Slasher (Banned Gear)
+
+125013830 Scroll Of Sevenless
+
+707236458  This sword has immense lightning and also shoots stuff
+
+830824152  LPI Sword, doesn't deal damage
+
+23153947 Gear Recycler
+
+60357972 Hedgehog Cannon
+
+553339698  This knife turns player's legs, arms and torso into skeleton
+
+18474459 Paint bucket, can change color of anything
+
+966957087  Metal Flying Witch Vacuum (Banned Gear)
+
+606138375  Energy Sword X (can also be used for building because it has editable particles)
+
+560422478  Insert tool, it's broken, possibly the antecessor of the ID Gearwall
+
+2813718951 A weird lightsaber that can cut off enemy's arms
+
+583425450  Weaponized vomit, not a good gear
+
+560367580  An item that makes an useless bubble around you
+
+1343627665 Broken tool, can only change surface material
+
+830804357  This axe makes enemies head explode, didn't test on players but can be a gateway to more glitches
+
+830813741  A sword that makes heavy fog and leaves an ugly fire on your back that can't be removed
+
+568562453  Knife toy gamepass
+
+689876122  LPI Paintgun, deals moderate damage and pollutes player screen with LPI logos
+
+1547909595 LPI Wrench
+
+964429275  Scroll of Sevenless (Banned Gear)
+
+590614386  LPI Chainsaw
+
+3017639081 Ice claws, already on gearwall
+
+1038706151 RoBar from gearcard gamepass
+
+3017608436 Scythe, no idea what it does
+
+830968798  Throwable ducks
+
+5570899510 Portable Justice, already on gearwall
+
+563426933  A sign that plays a song when used
+
+590621060  weird looking sword
+
+4901337104 WORKING F3X
+
+3147030511 Throwable Poison Cake
+
+720533346  Broken knife
+
+563422665  FF potion
+
+830949945  FoxBomb, explodes into various fox heads
+
+1721241781 GunKit, it's broken
+
+4520708092 Free Ivory Periastron
+
+689695087  Shoots lasers
+
+689874448  LPI Drink that gives you particles and speed boost for a while
+
+571336078  Another ID of the same Toy Knife Gamepass
+
+2667756334 Luger Pistol
+
+2667756334 FoxBins' Magic Hand (already on gearwall)
+
+966706881  FoxBin's Rail Runner MKII (Banned Gear)
+
+563418928  It's a broken gun, make sure to have a checkpoint in case you die
+
+560367489  Taser, didn't test on players yet, so I don't know
+
+477204103  Broken F3X
+
+2813736053 An air conditioner gear that when used, spells CSC on the sky
+
+3653658272 Nerfed Hedgehog launcher
+
+2839056557 Sword and shield
+
+2272261736 I Has Bucket Gear
+
+2740683110 Green periastron, but it doesn't have shield
+
+689873923  It's a bone that when used, makes your character kind invisible. It's like the ghost burger.
+
+603307161  More knives
+
+553351465  "Fixxed" Orbital Piano, ironically it's broken
+
+560368801  It's a bomb that you can't deploy for whatever reason
+
+2813746381 Harpoon
+
+564898488  FoxBin's healing magic, already in the gearwall
+
+689871923  LPI Cookie (squid game lpi crossover confirmed)
+
+571337784  More toy knife IDs bruh
+
+830792338  Nightmare Sword, kinda looks like that terraria nights bane sword and it's really cool
+
+2813714506 When used you get a speed boost and you catch on fire.
+
+975022539  Ultimate Rocket Pod from Banned Gear (DO NOT USE IT IF YOU DONT HAVE GAMEPASS, GEARWALLS STOP WORKING)
+
+965028875  Staff of Noob (Banned Gear)
+
+2785618375 Spawns snakes that attack the enemy, not much damage
+
+830806924  Shoots local projectiles that does not deal damage
+
+836286179  Certainly a sword
+
+2813761484 This gear spawns massive christmas ornaments, my favorite LMAO
+
+583347381  "I'm feeling sick" gear, but it has more range than the one in the gearwall
+
+4532316047 The nerfed black hole sword
+
+75496631   Chicken gear, probably does nothing
+
+82596339   Weapons, they don't work/doesn't deal damage
+
+93656513   A hammer that disappears after equipping
+
+93652837   Same as above
+
+1420976503 Two Seat Rainbow Carpet (the FoxBin version might be different from the one in the catalog)
+
+1305359656 A gear that spawns hands that attach to players
+
+2268724392 Gear that steals inventories
+
+1302058676 FE Resize tool, kinda useless because F3X exists
+
+553345360  Weird sword
+
+689870778  This weird gear that shoots immobile lasers?
+
+830816803  This item can throw you really far, make sure to have a checkpoint
+
+905396790  Import tool, blacklisted for those who don't have it.
+
+606144853  Liquid sword (thank goodness it isn't white)
+
+1319218306 Platform Bow from gamepass
+
+5597966760 Throwable Poisoned Chocolate
+
+606170157  Gear that spawns noobs quickly, they despawn after some time
+
+689870778  This weird gear that shoots immobile lasers?
+
+2813692280 Yup, another throwable poison cake
+
+964370969  FoxBin's The Piece Maker (Banned Gear)
+
+1405838300 Broken delete tool
+
+2785562508 Broken anime staff
+
+3017620592 This gear removes your arm, can be a gateway to more glitches.
+
+830818871  Same as above, but with different ID
+
+5069674434 Hunting machete
+
+830809571  Rainbow Katana
+
+1565221455 Glitched sword, funny when you spin with it
+
+1405883639 Magic carpet (it's from FoxBin inventory so it might be different from Roblox's)
+
+689874950  LPI Money Bag
+
+2785599053 Revolver
+
+553350197  Even even more knives (FoxBIn is obsessed with those)
+
+553348895  Boombox
+
+For Building (and also some random blocks):
+
+3110755182 Checkpoint (prevents you from dying)
+
+831099294  Old LPI hat dispenser
+
+560416757  A brick wall, useful for building
+
+900103501  Old special bricks
+
+606154974  LPI Wrench's noob
+
+1547634015 LPI Wrench's spawn
+
+560414963  The dummy that's near F3X giver, quite useless since you cant relocate it
+
+560414641  Black btools giver, can be edited with F3X
+
+4805640186 Touch To Play ID block
+
+722474273  Red wedge, also where the hell is the green part???
+
+906768224  A part with a checkerboard pattern, can be resized and it looks cool
+
+1554213924 Jumppower changer
+
+660926908  A thin and white part
+
+660931809  A weird brown part that has 2 invisible sides. Also can't be recolored
+
+720541990  Gives armor to you. You can change the mesh so it gives you a mesh, but it's hard.
+
+707234890  Noob from Woa Badge
+
+67994803   Some sort of concrete block
+
+67994759   Log
+
+67994775   Wood
+
+67994743   Gravel
+
+67994740   Granite
+
+67994731   Gold
+
+67994724   Cinder
+
+67994719   Cement
+
+67994712   Asphalt
+
+67994706   Aluminum
+
+67625712   Zombie Spawner
+
+67187816   A gift that can't be opened??
+
+67187806   Christmas tree (also Merry Christmas!)
+
+67187797   Christmas garland
+
+67187780   Snowman
+
+67187771   Menorah
+
+65962665   Brick block
+
+65962645   Granite block
+
+65943300   rooster
+
+65894507   Concrete thing with blue carpet on top
+
+65894286   Refrigerator
+
+65820169   A button on a stand, it looks sick
+
+65820129   Magic ball, when clicked particles appear and they disappear when clicked again
+
+65820095   Glitched Float Pad
+
+65820060   Float pad from LPI Wrench
+
+65820011   Energy core, cool for science builds
+
+65819994   C4, it doesn't explode
+
+67625690   Tesla
+
+56446583   Space Hatch
+
+67572398   Timer, doesn't work and it's also purely cosmetic
+
+67572390   A portrait with a photo of Builderman
+
+67572320   Blue concrete block
+
+67572258   An awesome looking door that doesn't open
+
+67572237   Light switch, it works but you can't hook it up with something else...
+
+67572224   A laser appears when you step on it, anchor it and rotate it up first
+
+67572213   Ugly circular door that doesn't open
+
+86374494   A meteor
+
+84929999   A tiny cristal mountain
+
+82717697   Uh, I guess it is a Blue powdered concrete block from Minecraft?
+
+115744762  Black block
+
+115744374  Brown block
+
+115742827  Yellow block
+
+113855979  Bloxy cola vending machine, you can buy for 50 robux, HOWEVER the gamepass doesn't work on LPI
+
+121359440  Massive undeletable grey baseplate
+
+844842315  Spawns water in a fixed coordinate, quite useless
+
+701375439  Spawns a huge brick that fortunately can be deleted
+
+69281349   Pressure Plate
+
+69281292   Radio, most likely doesn't work
+
+69281057   Speaker, doesn't work, purely cosmetic
+
+69281032   A clickable button that changes color
+
+23153972   Park Bench
+
+69276460   Drawbridge gate
+
+69939157   Catapult model, doesn't work
+
+90719419   A part with a stone fist mesh
+
+81047202   This weird pillar thing?
+
+80568507   The weird pillar thing with another ID
+
+105292979  A weird thing that carries a cat
+
+134082409  A grave
+
+125896025  Taxi, can be useful for city builds
+
+123227932  Percy Jackson Billboards
+
+65819947   This weird thing with "delay" written on it
+
+161865355  How to train your dragon Billboards
+
+160802655  Spawns fireworks and a pressure plate that activates the fireworks
+
+160802555  Same as above
+
+160802395  Same as above the above
+
+1554225939 Walkspeed Pad
+
+560414250  The music player, but you can't insert music for whtever reason.
+
+599157629  A mini island with a dog, probably supposed to be a secret island, because of the texts on it.
+
+560415640  4 white platforms with one invisible thing above each of them, quite weird
+
+1550671308 LPI Wrench radio, it spawns above void
+
+727371256  An unanchored thing at the island, 3 walking canes and a guy in a stand (what)
+
+564913728  Fog (you can't remove it)
+
+3028786688 Moonlit, it looks cool and can be good for magical builds.
+
+903319803  Killbricks
+
+952149606  Text generator, you can't input text in it though, but you can move it around
+
+560417137  Roblox house
+
+709637497  Bricks with particles, can be used to make waterfalls or piss. But it stops working when you import it, so keep that in mind.
+
+709640183  Water effect, really cool
+
+1547789663 Gear giver from wrench
+
+606149729  Another ID of the same noob from wrench
+
+569806399  Castle of Bronze (move away from spawn)
+
+847345299  Terrain blocks
+
+1554780073 Teleporters, already on LPI Wrench
+
+IDs of scripts and some fun stuff:
+
+1367834043   Adds a fancy black text on top of your screen, serves zero purpose (low tier ID)
+
+560419694    Sprint Script, possibly broken
+
+560419913    Adds ragdoll to you when you die
+
+923894226    View bobbing, might need more testing
+
+2272946427   R15 for everyone that joins after the activation
+
+1992619355   R11, I don't know if it works
+
+649769709    Could give you the 1000 HP Gamepass, but I don't know
+
+1025849174   TimeAPI, shows the time for everyone that joins after id activation
+
+557018820... it was a great time. But unfortunately, every good thing must come to an end. I will miss you. I love you.
+
+775764753    Smooth camera, might need more testing
+
+560421884    Double jump, reset for it to work
+
+846089351    Removes water and terrain
+
+561238759    Minecraft Name Tags
+
+977181407    Fake chat bubble, no idea how it works
+
+923651590    Might give shiftlock to players, needs more testing.
+
+IDs of NPCs/Fighter Bots and such:
+
+187790284  Soldier NPC
+
+72648316   Massive NPC
+
+71536048   Monkey N(FT)PC
+
+71006520   Genie NPC
+
+69489068   Alien NPC
+
+68452456   An NPC with animation
+
+82264079   Alien dog
+
+3924229481 Robot NPCS
+
+93601062   Roblox zombie
+
+95401558   Spawns a black figure that emits smoke and it's really fast, deals little damage to 1000 HP people
+
+94251705   Spawns the same creature as above, but its white and emits no smoke
+
+94316174   Spawns an undeletable model of a dragon, you can use Rail Runner to remove it's wings
+
+93746797   A doll in the sky
+
+88117081   A goblin with a sick haircut, NPC
+
+87350670   Chimera NPC
+
+67629734   The zombie from zombie spawner
+
+76117301   Parasite NPC
+
+101713896  Blue dragon that disappears after seconds
+
+106808835  Frog
+
+713405635  More zombies
+
+121605203  Zombie dog
+
+124120704  Dummy
+
+124120649  More dummy
+
+159856065  Spawns a dragon that flies over to above 0,0 and does nothing
+
+158186284  Same dragon but it doesn't fly and one of the wings is broken
+
+964882209  The noob from the Noob Staff banned gear, it spawns above void
+
+516159357  Grey NPC with R15
+
+623140790  Noob Fighter Bot
+
+623120557  Bot Fighting Bot (what)
+
+623157745  Foxbin Fighter bot
+
+623160582  Bluedogz Fighter Bot
+
+623120029  Bluedogz Fighter Bot
+
+713622333  Spawns 3 different zombies
+
+1406577583 LPI Anthro NPC
+
+713421604  Zombie
+
+2282122675 Spawns a character with infinite forcefield and animations
+
+623168775  Masterhalo012 Fighter Bot
+
+623123830  Masterhalo012 Fighter Bot
+
+623116750  orinrino619 Fighter Bot
+
+701379301  Zombie Template (spawns over void, and you get instakilled if you touch it)
+
+Badge Givers (they don't work, but who knows if they do in the future):
+
+(also i am too lazy to get the badge names so here is a massive list of foxbin's and roblox's badges)
+
+518117856 badge
+
+576582129 badge
+
+576583303 badge
+
+475811560 blacklisted badge
+
+538899036 badge
+
+509577032 badge
+
+507487979 badge
+
+484479325 badge
+
+563365537 badge
+
+521091099 badge
+
+538900217 badge
+
+576582558 badge
+
+576582869 badge
+
+509577177 badge
+
+507488008 badge
+
+509730244 badge
+
+507487878 badge
+
+538900100 badge
+
+67315342  badge
+
+508603771 badge
+
+576583422 badge
+
+500543761 badge
+
+509576797 badge
+
+518265447 badge
+
+896724302 badge
+
+Cars and Automobiles:
+
+6433316269 Vans
+
+6433330180 Super Cars
+
+6418225759 Pick up Trucks
+
+6418234850 SUVs
+
+6418221666 Jeeps
+
+6433272094 Dune Buggies
+
+6433323089 Sport Cars
+
+6418239833 Sedans
+
+Miscelaneous IDs (basically IDs that didn't fit in any of the other sections)
+
+903317454  Possibly nothing, but needs more testing
+
+404489748  Server Destroyer (at least that's what FoxBin said) and it's blacklisted
+
+2785569537 This gear is so ridiculously boring I didn't even put it in gears section because its bad, bad, stinky, ugly and melonheaded.
+
+850587374  Might need more testing
+
+941957224  Adds a small "Guest" text on 0, 0
+
+2603326964 Some weird black thing spawns at 0, 0
+
+857718927  Still needs testing. For whatever reason, I didn't write down what happens so now idk :D
+
+919076290  Needs more testing
+
+1302058676 An old and rusty chair, already on gearwall
+
+2740676571 Also forgor to note down what happens...
+
+573203659  The gear doesn't work, and it leaves behind a GUI
+
+160000787  Spawns something that despawns after seconds
+
+149633637  Spawns a Leprechaun above the void
+
+147928844  Spawns toy cars above the void
+
+140984100  Spawns a surfing board that does nothing
+
+135540735  Spawns a gear well above the void that you can't grab
+
+124125886  Hoverboard, you can use carpet to get out but you wont be able to use the hoverboard again
+
+123969891  Unanchored block
+
+119006192  Skate that disappears after using
+
+553348895  Literally forgot to write down what happens again
+
+12485909438 Fountain, destroys locked parts
+
+55827502 Unlocks and Locks parts, not tested and may not work
